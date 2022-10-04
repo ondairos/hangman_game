@@ -1,6 +1,4 @@
 import random
-from re import A
-from turtle import clear
 from hangman_words import word_list
 import os
 
